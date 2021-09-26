@@ -30,12 +30,12 @@ The project compile with *Makefile*:
 For compile the project use the commande:
 
 ```console
-foo@bar:~/204ducks$ make re
+foo@bar:~/malloc$ make re
 ```
 It will compile a shared library, which you can now use for your project (a nice tutorial [here](https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html))
 
 For clean the project use:
 
 ```console
-foo@bar:~/204ducks$ make fclean
+foo@bar:~/malloc$ make fclean
 ```
