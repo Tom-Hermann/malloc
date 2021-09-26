@@ -1,0 +1,8 @@
+a.out
+main.cpp
+test.cpp
+.vscode
+vgcore.*
+*.o
+main.c
+*.so
